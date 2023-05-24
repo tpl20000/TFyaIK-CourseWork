@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/1R/ptsrx1iAfD89zFZ6a5gxMRZMSAP1dno4R51bVDc6YypsMVcM2DmDRUPdK0dQot68yGBvJkaPP3pEJJJkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sentinel\\Desktop\\Problemmogram Kurs\\Problemmogram\\Problemmogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sentinel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.10\\microsoft.netcore.app.runtime.win-x86.6.0.10.nupkg.sha512",
+    "C:\\Users\\Sentinel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.10\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.10.nupkg.sha512",
+    "C:\\Users\\Sentinel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.10\\microsoft.aspnetcore.app.runtime.win-x86.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
